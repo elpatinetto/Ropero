@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ropero</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="choiceAmis">#Entre Amis</string>
+    <string name="choiceFoot">#Soiree Sport</string>
+    <string name="choiceApero">#Apero</string>
+    <string name="choiceDecouverte">#Decouverte</string>
+    <string name="choicePecho">#Pecho</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_dashboard">Mes paniers</string>
+    <string name="title_notifications">Statuts</string>
+    <string name="hint_email">Votre Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="btn_connexion">Connexion</string>
+    <string name="btn_lien_inscription">Pas encore inscrit ? Inscrivez-vous maintenant.</string>
+    <string name="hint_title_shop">Titre de votre panier</string>
+    <string name="text_list">Entrez votre liste de produits</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16a085</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+   <!-- <color name="colorAccent">#e74c3c</color> -->
+    <color name="colorAccent">#16a085</color>
+    <color name="textColor">#7f8c8d</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlack">#000</color>
+    <color name="btn_login_bg">#ECECEC</color>
+    <color name="input_destination">#1abc9c</color>
+    <color name="colorChoice">#e74c3c</color>
+    <color name="colorLauncher">#e0bf6e</color>
+    <color name="bg_connexion">#e74c3c</color>
+    <color name="colorPrimaryLight">#85CBBD</color>
+    <color name="back_card">#ecf0f1</color>
+</resources>

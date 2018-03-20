@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_card"
+    tools:context="app.ropero.com.ropero.AccueilFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/idRecyclerView"
+        android:layout_width="fill_parent"
+        android:layout_height="524dp"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btn_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:src="@drawable/ic_camera_enhance_white_24dp"
+            app:elevation="12dp"
+            app:borderWidth="0dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="99dp"
+            android:layout_marginEnd="18dp" />
+        <ImageView
+            android:layout_height="fill_parent"
+            android:layout_width="fill_parent"
+            android:visibility="visible"
+            android:id="@+id/imageView1" />
+    </RelativeLayout>
+</FrameLayout>
